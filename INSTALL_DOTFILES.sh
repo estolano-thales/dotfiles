@@ -5,6 +5,7 @@ path=$(pwd)
 # ln -sf $path/.bash_profile $HOME/.bash_profile
 # ln -sf $path/.bashrc $HOME/.bashrc
 # ln -sf $path/.gitconfig $HOME/.gitconfig
+ln -sf $path/.gitignore $HOME/.gitignore
 # ln -sf $path/.profile $HOME/.profile
 ln -sf $path/.tmux.conf $HOME/.tmux.conf
 ln -sf $path/.vimrc $HOME/.vimrc
